@@ -22,10 +22,6 @@ AI & Voice: OpenAI APIs, ElevenLabs TTS
 Telephony: Twilio Programmable Voice
 
 📦 Installation
-bash
-Copy
-Edit
-git clone https://github.com/amanp8l/ai-call.git
 cd ai-call
 npm install
 Add a .env file with the following variables:
@@ -68,24 +64,4 @@ The speech is sent back to the caller in real time.
 
 💬 Voice-enabled Chatbots
 
-🧑‍💻 Contribution
-We welcome contributions! Here’s how to get started:
 
-Fork the repository.
-
-Create a new branch (git checkout -b feature/my-feature)
-
-Make your changes and commit (git commit -am 'Add new feature')
-
-Push to the branch (git push origin feature/my-feature)
-
-Create a pull request.
-
-📜 License
-This project is licensed under the MIT License.
-
-📈 SEO Keywords
-AI calling app, open source voice bot, Twilio AI integration, Node.js call automation, text to speech calling app, AI virtual agent, ElevenLabs TTS app, real-time AI voice call, automated calling using GPT, openai twilio voice app
-
-🌐 Live Demo & Docs
-Coming soon...
